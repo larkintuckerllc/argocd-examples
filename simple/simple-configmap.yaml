@@ -5,3 +5,4 @@ metadata:
   namespace: simple
 data:
   hello: "world"
+  another: "example"
