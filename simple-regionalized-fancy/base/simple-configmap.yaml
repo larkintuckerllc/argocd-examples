@@ -4,5 +4,5 @@ metadata:
   name: simple
   namespace: simple
 data:
-  hello: REPLACE
-  common: REPLACE
+  region: REPLACE
+  cluster: REPLACE
