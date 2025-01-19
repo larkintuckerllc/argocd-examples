@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: simple-a
+  namespace: simple-a
+data:
+  hello: "world"

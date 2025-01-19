@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: simple
-  namespace: kube-system
+  name: simple-b
+  namespace: simple-b
 data:
   hello: "world"
