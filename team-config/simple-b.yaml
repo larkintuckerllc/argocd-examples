@@ -1,0 +1,3 @@
+workload: simple-b
+path: simple-applicationset/simple-b
+targetRevision: HEAD
