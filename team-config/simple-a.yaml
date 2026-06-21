@@ -1,3 +1,3 @@
 workload: simple-a
-path: simple-applicationset/simple-a
+sourcePath: simple-applicationset/simple-a
 targetRevision: HEAD
